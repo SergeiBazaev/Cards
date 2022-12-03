@@ -340,7 +340,7 @@ namespace Cards
 
 
                         DisplayWindow();
-                        Delay(5000);
+                        Delay(1000);
 
                     }
                     else
